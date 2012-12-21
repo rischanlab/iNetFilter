@@ -1,0 +1,36 @@
+<!ENTITY context.flash.label "Flash elementuaren ertzak">
+<!ENTITY address.label "Helbidea">
+<!ENTITY context.open.label "Fitxa berrian ireki">
+<!ENTITY type.label "Mota">
+<!ENTITY tooltip.filterSource.label "Iragazki iturria:">
+<!ENTITY noitems.label "Ez dago elementu blokeagarririk">
+<!ENTITY filter.label "Iragazki">
+<!ENTITY tooltip.size.label "Tamaina:">
+<!ENTITY reattach.label "Lotu">
+<!ENTITY search.label "Bilatu:">
+<!ENTITY docDomain.thirdParty "(kanpo iturria)">
+<!ENTITY filterSource.label "Iragazki iturria">
+<!ENTITY tooltip.docDomain.label "Dokumentuaren iturria:">
+<!ENTITY context.copy.label "Elementuaren helbidea kopiatu">
+<!ENTITY tooltip.type.label "Mota:">
+<!ENTITY search.accesskey "B">
+<!ENTITY context.disablefilter.label "?1? iragazkia ezgaitu">
+<!ENTITY context.copyFilter.label "Kopiatu iragazkia">
+<!ENTITY context.block.label "Blokeatu elementu hau">
+<!ENTITY context.enablefilter.label "?1? iragazkia gaitu">
+<!ENTITY detach.label "Askatu">
+<!ENTITY whitelisted.label "Onartutako orria">
+<!ENTITY context.disablefilteronsite.label "Iragazki hau ?1? domeinuan ezgaitu">
+<!ENTITY detached.title "Adblock Plus: elementu blokeagarriak (askatua)">
+<!ENTITY docDomain.firstParty "(lehen eskukoa)">
+<!ENTITY tooltip.type.whitelisted "(onartua)">
+<!ENTITY tooltip.filter.label "Iragazki aktiboa:">
+<!ENTITY tooltip.filter.disabled "(ezgaitua)">
+<!ENTITY context.editfilter.label "Editatu iragazki aktiboa">
+<!ENTITY tooltip.type.blocked "(blokeatuta)">
+<!ENTITY size.label "Tamaina">
+<!ENTITY context.whitelist.label "Gehitu salbuespen araua elementuarentzat">
+<!ENTITY context.selectAll.label "Dena aukeratu">
+<!ENTITY state.label "Egoera">
+<!ENTITY docDomain.label "Dokumentu iturria">
+<!ENTITY tooltip.address.label "Helbidea:">

@@ -1,0 +1,34 @@
+<!ENTITY slow.column "Դանդաղ ֆիլտրեր">
+<!ENTITY subscription.lastDownload.checksumMismatch "Անհաջող.">
+<!ENTITY lasthit.column "Վերջինը">
+<!ENTITY sort.accesskey "Դ">
+<!ENTITY sort.ascending.label "Ա &gt; Ֆ կարգով">
+<!ENTITY sort.label "Դասավորել">
+<!ENTITY filter.paste.label "Տեղադրել">
+<!ENTITY filter.accesskey "լ">
+<!ENTITY sort.ascending.accesskey "Ա">
+<!ENTITY subscription.lastDownload.inProgress "Բեռնում...">
+<!ENTITY enabled.accesskey "Մ">
+<!ENTITY filter.delete.label "Ջնջել">
+<!ENTITY enabled.column "Միացած է">
+<!ENTITY viewMenu.label "Տեսք">
+<!ENTITY subscription.lastDownload.unknown "ՉԿԱ">
+<!ENTITY lasthit.accesskey "ջ">
+<!ENTITY hitcount.accesskey "Հ">
+<!ENTITY subscription.lastDownload.invalidURL "Անհաջող. Սխալ հասցե">
+<!ENTITY hitcount.column "Ազդ">
+<!ENTITY filter.cut.label "Կտրել">
+<!ENTITY addSubscriptionOther.label "Ավելացնել այլ բաժանորդագրություն">
+<!ENTITY sort.none.label "Անկանոն">
+<!ENTITY filter.copy.label "Կրկնել">
+<!ENTITY sort.none.accesskey "ն">
+<!ENTITY addSubscription.label "Բաժանորդագրվել ֆիլտրերի">
+<!ENTITY sort.descending.accesskey "Ֆ">
+<!ENTITY find.label "Փնտրել">
+<!ENTITY sort.descending.label "Ֆ &gt; Ա կարգով">
+<!ENTITY subscription.lastDownload.connectionError "Անհաջող. Բեռնման սխալ">
+<!ENTITY subscription.lastDownload.success "Հաջող">
+<!ENTITY subscription.lastDownload.invalidData "Անհաջող.  Սխալ ֆիլտրերի ցուցակ">
+<!ENTITY addFilter.label "Ավելացնել Ֆիլտր">
+<!ENTITY subscription.lastDownload.label "Վերջին բեռնում.">
+<!ENTITY filter.column "Ֆիլտր">

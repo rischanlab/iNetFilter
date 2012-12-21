@@ -1,0 +1,71 @@
+/*
+ * This file is part of the Adblock Plus,
+ * Copyright (C) 2006-2012 Eyeo GmbH
+ *
+ * Adblock Plus is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License version 3 as
+ * published by the Free Software Foundation.
+ *
+ * Adblock Plus is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with Adblock Plus.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+@namespace url("http://www.w3.org/1999/xhtml");
+
+@media not handheld
+{
+  body
+  {
+    font-size: 130%;
+  }
+}
+
+/** This should be unnecessary in Gecko 2.0 and above. */
+*[hidden]
+{
+  display: none;
+}
+
+body
+{
+  background-image: url(abp-icon-big.png);
+  background-repeat: no-repeat;
+  background-position: 95% 5%;
+  font-family: Arial,sans-serif;
+}
+
+.sectionTitle
+{
+  font-weight: bold;
+}
+
+#listNameContainer,
+#listNone
+{
+  margin: 1em 2em;
+}
+
+#listNone
+{
+  font-style: italic;
+}
+
+#acceptableAds
+{
+  font-size: 80%;
+  font-weight: bold;
+}
+#acceptableAds > *
+{
+  font-weight: normal;
+}
+
+.sectionContainer
+{
+  margin: 1em 2em;
+}

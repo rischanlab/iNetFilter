@@ -1,0 +1,19 @@
+<!ENTITY thirdParty.label "Vetëm pjesa e tretë">
+<!ENTITY type.filter.label "Blloko filtruesin">
+<!ENTITY anchor.end.label "në fund të adresës">
+<!ENTITY options.label "Mundësitë">
+<!ENTITY collapse.default.no.label "Përdor të parazgjedhurën (jo):">
+<!ENTITY types.label "Apliko në llojet:">
+<!ENTITY custom.pattern.label "Përshtatja:">
+<!ENTITY firstParty.label "Vetëm pjesa e parë">
+<!ENTITY preferences.label "Trego filtruesit ekzistues...">
+<!ENTITY collapse.yes.label "Po">
+<!ENTITY collapse.no.label "Jo">
+<!ENTITY selectAllTypes.label "Selekto të gjitha">
+<!ENTITY type.whitelist.label "Mos përfill">
+<!ENTITY advanced.label "Pamja e avancuar">
+<!ENTITY basic.label "Pamja e zakonshme">
+<!ENTITY filter.label "Filtrues i ri:">
+<!ENTITY unselectAllTypes.label "Mos selekto asnjë">
+<!ENTITY collapse.accesskey "I">
+<!ENTITY collapse.default.yes.label "Përdor të parazgjedhurën (po):">

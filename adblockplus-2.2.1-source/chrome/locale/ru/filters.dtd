@@ -1,0 +1,88 @@
+<!ENTITY lasthit.column "Последнее срабатывание">
+<!ENTITY addFilter.accesskey "ф">
+<!ENTITY subscription.delete.label "Удалить">
+<!ENTITY subscriptions.tab.label "Подписки">
+<!ENTITY enabled.accesskey "к">
+<!ENTITY addGroup.accesskey "г">
+<!ENTITY subscription.update.label "Обновить фильтры">
+<!ENTITY restore.complete.warning "Все ваши фильтры и подписки будут заменены данными этого файла. Продолжать?">
+<!ENTITY filter.moveUp.label "Поместить выше">
+<!ENTITY filter.edit.label "Редактировать">
+<!ENTITY hitcount.column "Срабатывания">
+<!ENTITY acceptableAds2.label "Разрешить некоторую ненавязчивую рекламу">
+<!ENTITY close.label "Закрыть">
+<!ENTITY sort.none.label "Без сортировки">
+<!ENTITY find.accesskey "Н">
+<!ENTITY readMore.label "Дополнительная информация">
+<!ENTITY subscription.homepage.label "Домашняя страница">
+<!ENTITY sort.descending.accesskey "р">
+<!ENTITY sort.descending.label "В обратном порядке">
+<!ENTITY subscription.lastDownload.success "OK">
+<!ENTITY filters.remove.warning "Вы действительно хотите удалить все отмеченные фильтры?">
+<!ENTITY restore.custom.warning "Все собственные фильтры будут заменены данными этого файла. Продолжать?">
+<!ENTITY slow.column "Медленное">
+<!ENTITY subscription.actions.label "Действия">
+<!ENTITY filter.selectAll.label "Выбрать все">
+<!ENTITY backupButton.label "Резервные копии и восстановление">
+<!ENTITY sort.accesskey "р">
+<!ENTITY subscription.source.label "Список фильтров">
+<!ENTITY filter.paste.label "Вставить">
+<!ENTITY addSubscription.accesskey "б">
+<!ENTITY filter.delete.label "Удалить">
+<!ENTITY addSubscriptionAdd.label "Добавить">
+<!ENTITY slow.accesskey "М">
+<!ENTITY subscription.showHideFilters.label "Спрятать/показать фильтры">
+<!ENTITY backupButton.accesskey "к">
+<!ENTITY filter.actions.label "Действия с фильтрами">
+<!ENTITY filter.moveDown.label "Поместить ниже">
+<!ENTITY addFilter.label "Добавить фильтр">
+<!ENTITY subscription.editTitle.label "Переименовать">
+<!ENTITY subscription.moveDown.label "Поместить ниже">
+<!ENTITY subscription.disabledFilters.warning "Некоторые фильтры в этой подписке отключены.">
+<!ENTITY filter.column "Правило">
+<!ENTITY subscription.lastDownload.checksumMismatch "Ошибка: проверочная сумма не совпадает, возможно произошла ошибка загрузки">
+<!ENTITY noFiltersInGroup.text "Выбранная группа фильтров пуста.">
+<!ENTITY sort.label "Сортировка">
+<!ENTITY noFilters.text "У вас пока что нет собственных фильтров.">
+<!ENTITY subscription.external.label "Обновляется другим расширением">
+<!ENTITY filter.accesskey "П">
+<!ENTITY noGroupSelected.text "Нужно выбрать группу, чтобы показать ее фильтры.">
+<!ENTITY subscription.lastDownload.inProgress "сейчас...">
+<!ENTITY enabled.column "Включено">
+<!ENTITY viewMenu.label "Вид">
+<!ENTITY addSubscriptionCancel.label "Отмена">
+<!ENTITY lasthit.accesskey "л">
+<!ENTITY dialog.title "Настройки фильтров Adblock Plus">
+<!ENTITY subscription.minVersion.warning "Этот список фильтров требует более новой версии Adblock Plus, желательно обновить Adblock Plus до последней версии.">
+<!ENTITY subscription.lastDownload.invalidURL "Ошибка: неверный адрес">
+<!ENTITY backup.error "При записи фильтров в файл произошла ошибка. Проверьте, может этот файл защищен от записи или используется другой программой.">
+<!ENTITY restore.error "Ошибка при обработке данных файла, может это не резервная копия, созданная Adblock Plus?">
+<!ENTITY filter.cut.label "Вырезать">
+<!ENTITY backup.custom.title "Только собственные фильтры">
+<!ENTITY subscription.moveUp.label "Поместить выше">
+<!ENTITY backup.complete.title "Все фильтры и подписки">
+<!ENTITY filters.tab.label "Собственные фильтры">
+<!ENTITY find.label "Найти фильтр">
+<!ENTITY subscription.lastDownload.connectionError "Ошибка: невозможно загрузить">
+<!ENTITY subscription.lastDownload.invalidData "Ошибка: неверный формат списка фильтров">
+<!ENTITY restore.minVersion.warning "Предупреждение: этот файл был записан более новой версией Adblock Plus. Рекомендуется обновить Adblock Plus до последней версии, прежде чем восстанавливать данные из этого файла.">
+<!ENTITY sort.ascending.label "Сортировка по алфавиту">
+<!ENTITY viewList.label "Открыть список">
+<!ENTITY sort.ascending.accesskey "ф">
+<!ENTITY restore.default.label "Восстановить копию от ?1?">
+<!ENTITY hitcount.accesskey "б">
+<!ENTITY acceptableAds2.accesskey "ш">
+<!ENTITY subscription.lastDownload.unknown "никогда">
+<!ENTITY subscription.enabled.label "Включена">
+<!ENTITY noSubscriptions.text "У вас пока нет подписок на фильтры. Без фильтров Adblock Plus ничего не будет
+  блокировать, пожалуйста воспользуйтесь кнопкой &quot;Добавить подписку&quot;.">
+<!ENTITY addGroup.label "Добавить группу фильтров">
+<!ENTITY addSubscriptionOther.label "Добавить другую подписку">
+<!ENTITY filter.copy.label "Копировать">
+<!ENTITY sort.none.accesskey "з">
+<!ENTITY addSubscription.label "Добавить подписку">
+<!ENTITY restore.own.label "Восстановить собственную копию">
+<!ENTITY filter.resetHitCounts.label "Обнулить статистику попаданий">
+<!ENTITY backup.label "Создать новую резервную копию">
+<!ENTITY subscription.disabledFilters.enable "Включить отключенные фильтры">
+<!ENTITY subscription.lastDownload.label "Последнее обновление:">

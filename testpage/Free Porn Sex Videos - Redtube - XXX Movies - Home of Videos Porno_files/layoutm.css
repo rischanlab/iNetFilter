@@ -1,0 +1,119 @@
+@charset "UTF-8";
+/* CSS Document */
+#moreRT li a span {
+	margin			: 4px 0 0 3px;
+}
+#alphabetical, #videosCount {
+	margin-top: 3px;
+}
+#sortingOptions li, #sortingOptions .selectedSorting, #subNavFilters, .categoriesBreadcrumb {
+	margin-top		: 1px;
+}
+.categoryHeading {
+	font-size		: 19px;
+}
+.uploadVideos {
+	margin-top		: 5px;
+}
+h1.legal {
+	font-size		: 21px;
+}
+#sendFlagging tr, #sendFlagging td {
+	font-weight		: normal;
+}
+#sendFlagging label {
+	padding-top		: 0;
+}
+#profile_tabs dt a {
+	padding-bottom	: 7px;
+}
+#profile_tabs dt a.active {
+	margin-top		: 1px;
+	padding-bottom	: 6px;
+}
+.watchPage .comment .commentHeader .right, .ProfileComments .comment .commentHeader .right {
+	margin-top		: 4px;
+}
+.sectionHeading ul.options li {
+	font-weight		: normal;
+}
+#subNavTime {
+	padding-top		: 3px;
+}
+#subNavSorting li {
+	margin-top		: 4px;
+}
+#subNavSorting li, #customCategories li {
+	padding-top		: 0px;
+}
+#subNavRT {
+	padding-top		: 4px;
+}
+#customCategories {
+	padding-top		: 3px;
+}
+#advancedSearch #asSelectPeriod label {
+	padding-right: 12px !important;
+}
+@-moz-document url-prefix() {
+	div.ntva { margin-top: 1px; }
+	.embedAndFlagContent { height: 252px; }
+	.embedAndFlagContent textarea { height: 263px; float: right; }
+	.embedAndFlagContent textarea.flagDescr { height: 76px; float: none; }
+	.videoRating #shareTitle { margin-top: 6px !important; }
+	.videoRating { margin-bottom: 8px; }
+	.embedAndFlagContent { margin-top: -8px !important; padding-top: 10px !important; }
+	#embedCode { padding-top: 0px !important; height: 264px !important; }
+	.uploadAvatarPhoto{bottom: 3px !important;}
+	.uploadStepStart .margoin { margin-top: -1px !important; }
+	.topNavigation ul li a { padding-bottom: 9px; }
+}
+.pages a, #commentsPager a, #navPrevSpan, #navNextSpan{
+	line-height: 26px!important;
+}
+
+.messageContent .messageBody a p, .messageContent .messageBody a, .messageContent .messageBody p, .messageContentNew .messageBody p {
+	max-height: 32px;
+}
+.downloadScreensavers {
+	height: 31px;
+}
+.topNavigation ul li#linkLogin a, .topNavigation ul li#linkUpload a {
+	background-position: -284px 0px;
+}
+.topNavigation ul li#linkLogin a:hover, .topNavigation ul li#linkUpload a:hover {
+	background-position: -386px 0px;
+}
+#profileOptions ul#nonIconLinks {
+	padding-top: 22px;
+}
+.inlineJoinComm h2 span{
+	font-weight: normal;
+}
+
+.topCommunity,
+.topCommunity li {
+	height: 33px;
+}
+#avatarUploadFrame{
+	top: 0px!important;
+}
+
+.topNavigation ul li.icons a em span {
+	padding-top: 2px;
+}
+
+@-moz-document url-prefix() {
+	.galleryTitle h1 span { line-height: 21px; }
+	.galleryTitle div { padding-top: 4px; }
+}
+
+.successfullyFlagged {
+	padding-top: 3px;
+}
+
+.selectChannel {
+	margin-top: -2px;
+}
+
+

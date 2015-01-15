@@ -1,5 +1,6 @@
 inetfilter-moz-addons
 =====================
+*update : watch the video of iNetFilter http://youtu.be/T4Qr0Ft6OKk
 
 <h3>About</h3>
 

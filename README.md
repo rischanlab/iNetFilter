@@ -2,6 +2,10 @@ inetfilter-moz-addons
 =====================
 *update : watch the video of iNetFilter http://youtu.be/T4Qr0Ft6OKk
 
+source code of iNetFilter https://github.com/rischanlab/iNetFilter/tree/master/sourcecode
+you can download directly https://github.com/rischanlab/iNetFilter/blob/master/sourcecode/inetfilter.xpi (*.xpi file) and try in your firefox.
+
+
 <h3>About</h3>
 
 <p>inetfilter is an add-ons for Mozilla browser. This project was built for blocking nude image when you load images using Mozilla web browser. The goal of this add-ons is make your surfing activity free from nude images.</p>
